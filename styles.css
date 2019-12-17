@@ -1,0 +1,27 @@
+/* font-family: 'Girassol', cursive;
+font-family: 'Lakki Reddy', cursive; */
+body{
+  background-color: #550a46;
+}
+h1{
+  font-family: 'Girassol', cursive;
+  font-size: 10rem;
+  color:#9aceff;
+  text-shadow: 8px 2px black;
+}
+p{
+  font-family: 'Lakki Reddy', cursive;
+  font-size:1.5rem;
+}
+#dices{
+  padding:5% 35%;
+  color:#617be3;
+  text-shadow: 3px 2px black;
+  text-align: center;
+}
+.dice1,.dice2{
+  width: 150px;
+}
+.top-hint{
+  color: white;
+}
